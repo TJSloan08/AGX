@@ -1,7 +1,7 @@
 # 2024 Twelve Bridges Athletic Staff List
 1. Athletic Director: **Dave Foxworthy**
 2. Other Game Personnel: *Darrell Amos*
-3. Athletic Trainer/Medical Personnel: *Owen Austin*
+3. Athletic Trainer/Medical Personnel: Owen Austin
 4. Head Coach: **Chris Bean**
 5. Other Game Personnel: **Bill Bean Sr.**
 6. Administrator: Chris Bombard
