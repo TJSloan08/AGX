@@ -4,4 +4,4 @@
 3. Bill Bean Sr. 
 4. NorCal CIF Ref Association
 5. Krish Kumar
-6. Frank Gilfillan
+6. Frankie Lee Gilfillan
