@@ -29,7 +29,7 @@
 
 > [!NOTE]
 > Nick Freitas is NOT related to anyone employed at Wilcox.
-## Staff Location List
+## Staff Information List
 1. 2480 Saint Andrews Dr
     - 330 F St
 2. None
@@ -39,4 +39,7 @@
 6. None
     - #52 at Lincoln High School in 2000
     - Birth 1984
-7. 
+7. None
+8. None
+9. None
+10. 
